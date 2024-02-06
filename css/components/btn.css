@@ -1,0 +1,17 @@
+.cta-btn {
+  background-color: #ff6600;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+#social-media{
+  font-size : 40px;
+}
+
+#social-media a {
+  color: #ffffffe7;
+}
